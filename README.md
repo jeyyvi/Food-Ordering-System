@@ -12,7 +12,7 @@ This project is a database-driven web application for an online food ordering sy
 
 ---
 
-## 🛠Tech Stack  
+## Tech Stack  
 - **Frontend:** HTML, CSS, JavaScript *(Responsive UI, dynamic elements)*  
 - **Backend:** PHP *(Server-side logic, form validation, and database operations)*  
 - **Database:** MySQL *(Tables for users, menu items, orders, and carts)*  
