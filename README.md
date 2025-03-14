@@ -3,12 +3,12 @@ This project is a database-driven web application for an online food ordering sy
 
 ---
 ## Features  
-**User Authentication** – Register, login, and manage profiles  
-**Menu Browsing** – Categorized items (Appetizers, Main Courses, Desserts, etc.)  
-**Cart Management** – Add, update, and remove items dynamically  
-**Order Checkout** – Collect customer details and process orders  
-**Database Integration** – MySQL for structured data storage  
-**Admin Panel** – Manage menu items, orders, and users  
+- **User Authentication** – Register, login, and manage profiles  
+- **Menu Browsing** – Categorized items (Appetizers, Main Courses, Desserts, etc.)  
+- **Cart Management** – Add, update, and remove items dynamically  
+- **Order Checkout** – Collect customer details and process orders  
+- **Database Integration** – MySQL for structured data storage  
+- **Admin Panel** – Manage menu items, orders, and users  
 
 ---
 
